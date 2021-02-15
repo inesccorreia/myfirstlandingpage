@@ -1,7 +1,7 @@
 body {
   text-align: center;
   font-family: Verdana;
-  background-image: url(imagens/ines.jpg);
+  background-image: url(imagens/ines.jpg) no-repeat center center fixed;
   background-size: cover;
   color: white;
 }
