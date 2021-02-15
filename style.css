@@ -1,0 +1,55 @@
+body {
+  text-align: center;
+  font-family: Verdana;
+  background-image: url(imagens/ines.jpg);
+  background-size: cover;
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  padding-top: 50px;
+  text-shadow: 5px 5px 5px coral;
+  margin-bottom: 15px;
+}
+
+p {
+  font-size: 25px;
+  font-weight: bold;
+  text-shadow: 5px 5px 5px black;
+  line-height: 5px;
+  margin-bottom: 50px;
+}
+
+.button {
+  text-decoration: none;
+  background-color: rgb(204,0,0);
+  color: white;
+  font-size: 20px;
+  padding: 10px 15px 10px 15px;
+  border-radius: 5px;
+}
+
+.button:hover {
+  color: black;
+  background-color: rgb(255,127,80,0.7);
+}
+
+.list {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 200px;
+}
+
+.list li {
+  display: inline;
+}
+
+.list a {
+  text-decoration: none;
+  color: red;
+  font-size: 35px;
+  padding: 10px 15px 10px 15px;
+}
+
+
